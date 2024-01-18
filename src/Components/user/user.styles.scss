@@ -1,0 +1,19 @@
+.user{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    cursor: pointer;
+    align-items: center;
+    .highlighted{
+        border: 1px solid salmon;
+    }
+    .user-info{
+        font-family: 'rubik';
+        margin-left: 10px;
+        width: 90%;
+        height: fit-content;
+    }
+    img{
+        border-radius: 50%;
+    }
+}

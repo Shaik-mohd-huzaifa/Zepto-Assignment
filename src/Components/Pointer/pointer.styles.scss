@@ -1,7 +1,6 @@
 .pointer{
-    max-width: 100%;
-    min-width: 250px;
-    height: 50px;
+    width: 250px;
+    height: 30px;
     display: flex;
     justify-content: center;
     align-items: flex-end;
@@ -14,7 +13,7 @@
         height: 25px;
         background-color: transparent;
         border: 0;
-        font-size: 25px;
+        font-size: 18px;
     }
     .user-input:focus-visible{
         outline: 0;

@@ -1,10 +1,9 @@
 .SearchingPanel{
-    width: 96%;
-    height: fit-content;
-    margin: auto;
+    width: 250px;
+    height: 50px;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
-    background-color: rgba(255, 255, 255, 0.504);
-    border-bottom: 4px solid blueviolet;
     position: relative;
+    display: flex;
+    align-items: center;
 }
